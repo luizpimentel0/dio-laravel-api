@@ -1,1 +1,3 @@
-# dio-laravel-api
+## dio-laravel-api
+
+Just seeing how laravel routes works
